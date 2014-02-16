@@ -1,0 +1,9 @@
+#!/bin/sh
+##
+
+make distclean
+
+make ARCH=arm CROSS_COMPILE=/opt/FriendlyARM/toolschain/4.5.1/bin/arm-none-linux-gnueabi- tiny210_config
+
+make ARCH=arm CROSS_COMPILE=/opt/FriendlyARM/toolschain/4.5.1/bin/arm-none-linux-gnueabi-
+##
