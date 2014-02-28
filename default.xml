@@ -5,6 +5,6 @@
 
 <default revision="master" remote="origin" />
 
-<project path="u-boot" name="u-boot" />
+<project path="tiny210/u-boot" name="tiny210/u-boot" />
       
 </manifest>
