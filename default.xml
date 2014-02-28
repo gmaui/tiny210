@@ -5,6 +5,7 @@
 
 <default revision="master" remote="origin" />
 
-<project path="tiny210/u-boot" name="tiny210/u-boot" />
+<project path="GGmaui" name="GGmaui" />
+<project path="tiny210/u-boot" name="u-boot" />
       
 </manifest>
