@@ -5,7 +5,6 @@
 
 <default revision="master" remote="origin" />
 
-<project path="GGmaui" name="GGmaui" />
 <project path="tiny210" name="tiny210" />
       
 </manifest>
