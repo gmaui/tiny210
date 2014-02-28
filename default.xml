@@ -1,10 +1,10 @@
-    <?xml version="1.0" encoding="UTF-8"?>
-    <manifest>
-      <remote  name="origin"
-               fetch="." />
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote  name="origin"
+         fetch="." />
 
-      <default revision="master" remote="origin" />
+<default revision="master" remote="origin" />
 
-      <project path="u-boot" name="u-boot" />
+<project path="u-boot" name="u-boot" />
       
-    </manifest>
+</manifest>
